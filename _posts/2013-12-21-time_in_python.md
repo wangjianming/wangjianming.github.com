@@ -7,7 +7,7 @@ tags: []
 ---
 #      python时间处理
 
-![python-time](http://www.zybuluo.com/static/img/toolbar-reader.png)
+![python-time]({{ site.img_url }}/py_time_transe.png)
 
 其中
 time.strftime( 格式字符串, 时间对象 )# str format time-->返回时间字符串
