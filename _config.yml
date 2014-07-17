@@ -10,6 +10,7 @@ pygments: true
 #
 title : 小明同学
 tagline: Site Tagline
+markdown: kramdown
 author :
   name : Name Lastname
   email : wjm251@gmail.com
